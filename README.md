@@ -25,7 +25,7 @@ To get 0x MultiTool, simply [**Join the Discord Server**](https://discord.gg/gRF
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="images/screenshot1.png" alt="Screenshot 1" width="500">
+  <img src="images/screenshot1.png" alt="Screenshot 1" width=800">
 </p>
 
 ## 🌐 Socials
