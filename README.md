@@ -34,4 +34,4 @@ To get 0x MultiTool, simply [**Join the Discord Server**](https://discord.gg/gRF
 
 ## ⭐ Support & Feedback
 
-If you find this tool helpful, please consider giving it a ⭐ star on GitHub.
+if you like this tool, please consider giving it a ⭐ star.
