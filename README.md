@@ -12,27 +12,25 @@
 
 ## 🚀 Features
 
-- **Nuker >>** Nukes Any Server with a discord bot token, User Token possibility coming soon...
-- **Token Options >>** Token info, Messages logging, Auto Response, Sniper, and other many features...
-- **Automation >>** We have other features which will automate certain things for you.
-- **Customization:** We Provide the possibility to customize the console to ur likings.
-- **And More:** way way more features
+- **Nuker >>** Nukes any server with a Discord bot token, with user token functionality coming soon...
+- **Token Options >>** Token info, message logging, auto response, sniper, and many other features...
+- **Automation >>** Automate various tasks effortlessly.
+- **Customization >>** Customize the console to your liking.
+- **And More >>** Explore many more features!
 
 ## 🛠 Installation
 
 To get 0x MultiTool, simply [**Join the Discord Server**](https://discord.gg/gRFqZFmtAy).
 
-## 📷 Screenshots
+## 📷 Screenshot
 
 <p align="center">
   <img src="images/screenshot1.png" alt="Screenshot 1" width="500">
-  <img src="images/screenshot2.png" alt="Screenshot 2" width="500">
 </p>
 
 ## 🌐 Socials
 
 - **Discord:** [Join our Discord Server](https://discord.gg/gRFqZFmtAy)
-- **Twitter:** [Follow us on Twitter](https://twitter.com/yourusername)
 
 ## ⭐ Support & Feedback
 
