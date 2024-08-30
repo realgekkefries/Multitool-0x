@@ -1,9 +1,9 @@
 # 🌟 Discord MultiTool - Free & Open Source
 
-![Stars](https://img.shields.io/github/stars/realgekkefries/Multitool-0x) 
-![Forks](https://img.shields.io/github/forks/realgekkefries/Multitool-0x) 
-![Issues](https://img.shields.io/github/issues/realgekkefries/Multitool-0x) 
-![Contributors](https://img.shields.io/github/contributors/realgekkefries/Multitool-0x)
+![Stars](https://img.shields.io/github/stars/realgekkefries/Multitool-0x?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/realgekkefries/Multitool-0x?style=flat-square) 
+![Issues](https://img.shields.io/github/issues/realgekkefries/Multitool-0x?style=flat-square) 
+![Contributors](https://img.shields.io/github/contributors/realgekkefries/Multitool-0x?style=flat-square)
 
 <p align="center">
   <img src="images/logo.png" alt=";ogo" width="150">
