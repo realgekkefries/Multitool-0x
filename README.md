@@ -16,7 +16,7 @@
 - **Token Options >>** Token info, message logging, auto response, sniper, and many other features...
 - **Automation >>** Automate various tasks effortlessly.
 - **Customization >>** Customize the console to your liking.
-- **And More >>** Explore many more features!
+- **And More >>** and way way more features
 
 ## 🛠 Installation
 
